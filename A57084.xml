@@ -1,0 +1,1503 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rabshakeh vapulans, or, An answer to The tribe of Levi in vindication of the clergy : a poem, with a preface reflecting on the wit and civility of that famous poem, and some late pamphlets of the same nature.</title>
+         </titleStmt>
+         <extent>Approx. 59KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57084</idno><idno type="EEBO-CITATION">12374808</idno>
+  <idno type="VID">60550</idno>
+  <idno type="EEBO-PROQUEST">2240946322</idno>
+  
+            <idno type="STC">Wing R117</idno>
+            <idno type="STC">ESTC R2817</idno>
+            <idno type="OCLC">12374808</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A57084)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60550)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 224:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Rabshakeh vapulans, or, An answer to The tribe of Levi in vindication of the clergy : a poem, with a preface reflecting on the wit and civility of that famous poem, and some late pamphlets of the same nature.</title>
+               </titleStmt>
+               <extent>[7], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and are to be sold by Randal Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An answer to a satire attributed to John Tutchin.</note>
+                  <note>One of a series of pamphlets concerned with William Sherlock; it also contains a few lines directed against Dryden.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Tutchin, John, 1661?-1707. --  Tribe of Levi.</term>
+               <term type="personal_name">Sherlock, William, 1641?-1707.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:60550:1"/>
+            <pb facs="tcp:60550:1"/>
+            <p>Rabshakeh Vapulans: OR, AN ANSWER TO THE <hi>Tribe of Levi;</hi> IN VINDICATION OF THE CLERGY.</p>
+            <p>A POEM.</p>
+            <p>WITH A <hi>PREFACE,</hi> Reflecting on the <hi>Wit</hi> and <hi>Civility</hi> of that <hi>famous Poem,</hi> and some late <hi>Pamphlets</hi> of the same Nature.</p>
+            <p>
+               <hi>LONDON</hi> Printed, and are to be sold by <hi>Randal Taylor,</hi> near <hi>Stationers</hi>-Hall. MDCXCI.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:60550:2"/>
+            <pb facs="tcp:60550:2"/>
+            <head>THE PREFACE.</head>
+            <p>WERE there not a certain <hi>Charm</hi> in <hi>Doggrell,</hi> which never fails pleasing those whose <hi>Capacities</hi> can rise no higher; one would wonder how the <hi>Tribe of Levi,</hi> and some other Pieces of that Nature, should have lately met with so much Applause from some sort of People. I wish the Reader no better <hi>Diversion</hi> (if it does not raise his <hi>Indignation</hi> too) than I my self have had, in seeing a <hi>fat Fellow</hi> hold his Sides, and half burst himself over a <hi>Dish of Coffee;</hi> as if he had seen <hi>Merry-Andrew eating a Custard,</hi> at those Two <hi>Familiar Lines</hi> of this Author in Page the 9th.</p>
+            <q>
+               <l>Ah <hi>William</hi>—had I but thy Sceptre Royal,</l>
+               <l>By Heav'n, I'd beat the Dogs till they were Loyal.</l>
+            </q>
+            <p>And what if the <hi>Ass should happen to get the Lyon's Skin on?</hi> Now am I so far from thinking he would be such a dreadful roaring Creature as he makes us believe, that I fansie he'd, like his Brother Beggar, only <hi>swing upon a Gate all Day long,</hi> without doing any mortal Creature any Mischief. But whether or no this be true, 'tis certain, that you'd venture having your Head broke in more places than one near the <hi>Change,</hi> should you dare affirm any two Lines in <hi>Cowley</hi> or <hi>Dryden</hi> were equal to this incomparable <hi>Distich.</hi> But to let pass all the Ele<g ref="char:EOLhyphen"/>gant <hi>For to's</hi> and <hi>Doe's,</hi> and all the ancient Family of the <hi>So that's</hi> and <hi>Eds,</hi> and the rest of the kind Crutches to a cripled Muse, which seem the peculiar affected Flowers of the Author, 'twere to be wish'd he had brought nothing worse with him from <hi>Ireland;</hi> for▪ had he been only <hi>Ridiculous,</hi> the Humour of the <hi>Country</hi> might have excused him; but, when he's <hi>Mischievous</hi> too, his Apish Tricks and Gambols ought no more to save him from the <hi>Lash</hi> than his <hi>Brother Animal</hi> in the like Circumstances. I won't so much abuse the Reader's Patience to examine particularly into the <hi>Sence</hi> and <hi>Poetry</hi> of this famed Piece, the first half Page is enough to give any one, but a <hi>Car-man,</hi> his Belly-full. Never was poor <hi>Ballad</hi> or <hi>Song-Book</hi> in such a Condition as his would be, should we go to <hi>uncase</hi> it, and make Prose on't. Let's try for once, but by no means to make a Practice on't, what can be done with the very first four Lines.</p>
+            <q>
+               <pb facs="tcp:60550:3"/>
+               <l>"Since <hi>Plagues</hi> were order'd for a <hi>Scourge</hi> to Men,</l>
+               <l>"And <hi>Aegypt</hi> was chastiz—ed with her <hi>Ten;</hi>
+               </l>
+               <l>"No <hi>greater</hi> Plague did any State molest,</l>
+               <l>"Than the severe, the <hi>worst</hi> of <hi>Plagues,</hi> a Priest.</l>
+            </q>
+            <p>That is to say, in plain Prose, <q>Since <hi>Plagues</hi> were ordered to <hi>plague</hi> Men, and <hi>Aegypt</hi> was <hi>plagued</hi> with Ten <hi>Plagues,</hi> there was never any <hi>Plague greater</hi> than the <hi>worst of Plagues.</hi> — And 'twould be very hard if there should, in my Judgment.</q>
+            </p>
+            <p>But not content with <hi>Nonsence,</hi> he won't so much as afford us true <hi>English</hi> in the last Line of the same Page, nor <hi>true Verses</hi> almost all through his Book; his Zeal for the Matter, we may charitably suppose, making him now and then run a little too fast, and Scan <hi>Two Fingers</hi> instead of <hi>One.</hi>
+            </p>
+            <p>But these are not the main Things in Controversie between us. <hi>Dullness</hi> is the fault of a <hi>Natural,</hi> not an <hi>acquired</hi> Habit, and therefore involuntary, he having as much Liberty to Print dull Things as I, or any Man else. And he should e'en have writ on till he had tired himself or his Admirers, had not that intolerable <hi>Insolence</hi> (the very Characteristick of his Nature, and which not improbably he derives from that parcel of French-Blood which flows in his Veins) made him fall foul on what has been ever esteemed most <hi>Sacred</hi> in this World; sparing not so much as one single <hi>Priest</hi> to propagate the Kind, but letting drive at all, without Fear, or Wit, or good Manners, and concluding, <hi>Hanging's the fittest Death for 'em</hi> without exception, one and all, not so much as leaving room to creep out at for his own <hi>Father,</hi> were he yet alive to see what a Viper he has been the occasion of bringing into the World. But I must have a care of imitating him; <hi>railing,</hi> as well as all the <hi>Plagues</hi> he reckons up, is a very in<g ref="char:EOLhyphen"/>fectious Disease: Nor is't an to Matter to read all his Book over, without being a little <hi>tinged</hi> with such bad Company. For which reason I have endeavoured to avoid it, and made choice of <hi>a way of Writing</hi> quite con<g ref="char:EOLhyphen"/>trary, though at the hazard of not pleasing as much as my Antagonist. Those who are <hi>Judges</hi> will find I have at least <hi>aim'd</hi> at <hi>Horace's</hi> easie sort of <hi>Satyr;</hi> nor is't any Disgrace to come vastly short of so great an <hi>Original.</hi> And this way I the more willingly chose, lest the other should have hurried me into an Extreme of the same Nature with the Occasion on't, and given <hi>Temptation</hi> to fall foul on any <hi>Party</hi> besides that which is an avowed Enemy to the <hi>Go<g ref="char:EOLhyphen"/>vernment,</hi> or <hi>Religion,</hi> on which 'tis founded. On the contrary, I am not ashamed to acknowledge, that I have revised the following Piece with some
+<pb facs="tcp:60550:3"/> Care, lest any thing of that Nature should pass in the Crowd; which if there be, I declare it is against my Intention and Knowledge. There are enough to recriminate besides, who perhaps mayn't love their Country better, and may yet get more by it than I by this. None can be so dull an Observer of Things, but may easily take notice, That the Road to Preferment lies the same way now it has ever done, by espousing one <hi>Faction</hi> heartily, and railing at all the rest: But I take this at present to be just as wise a me<g ref="char:EOLhyphen"/>thod as quarrelling in a <hi>Powder-Room,</hi> and <hi>firing a Pistol</hi> there at One that has trod upon my Toes, or broke my Shins. In a word, I scorn to be Great at my Country's Cost, though I think there's no great Danger on't. What <hi>I'm</hi> concern'd for, is the Cause of <hi>common Christianity;</hi> nay of <hi>Natural Religion</hi> it self, both of which perhaps are in greater Danger than is commonly thought; such things as these tending directly to <hi>sap their very Foundation,</hi> aiming not against the <hi>Abuse,</hi> but very <hi>Use</hi> of Things, and the Destruction of the very Character of Priesthood, instead of reform<g ref="char:EOLhyphen"/>ing those who are of it. On which account I should think no <hi>Priest,</hi> of what<g ref="char:EOLhyphen"/>ever Opinion, could esteem or commend this Author's Work, unless they love to have themselves abused, and of the same Temper with the Man in the Fable, who would willingly pluck out One of his own <hi>Eyes,</hi> that his E<g ref="char:EOLhyphen"/>nemy might lose <hi>Both.</hi> I have only this more to say in respect of the <hi>GEN<g ref="char:EOLhyphen"/>TLEMAN,</hi> my Antagonist; That, though others may think my <hi>Satyr</hi> too <hi>tame</hi> and <hi>languid,</hi> I hope he won't blame me for that Error. That he will not think himself a much better Man than some of those whom he him<g ref="char:EOLhyphen"/>self has endeavoured to Expose to the World, and therefore not think strange he meets with the same Fate. That his own History being not sufficiently known, I expect he should not only <hi>pardon</hi> me, but <hi>thank</hi> me for publishing some of the most Remarkable Passages of his Life. That in the mean time he is extreamly obliged to me (considering how he has treated others) for my <hi>Civility,</hi> in not naming him; and that he may quickly know, I can be much severer, if he thinks fit to make the Experiment.</p>
+            <p>There's another famous <hi>Spark</hi> about Town, whom for the <hi>likeness of the Argument</hi> I have link'd with him in many Places of this <hi>Satyr,</hi> and who will without question m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke the best Company in the World. 'Tis a certain kind of a Second Rate <hi>Ballad-singer,</hi> alias <hi>Moralist,</hi> alias <hi>Mouse-trap-maker,</hi> alias <hi>Weesil-monger,</hi> who having lately contracted a particular Acquain<g ref="char:EOLhyphen"/>tance with the King's Most Excellent <hi>Rat-Catcher,</hi> and managing besides a small Intrigue with a <hi>Corn-Chandler's Wife's Cousin-German,</hi> has very luckily improv'd the hints he met with from both those places, and turned all the <hi>Priests</hi> he comes near into the most dreadful <hi>Four legg'd Beasts</hi> that
+<pb facs="tcp:60550:4"/> ever were shown for Monsters. He's very angry with a certain <hi>Reverend Doctor,</hi> because he cann't understand him. — Poor wretch, if it has no <hi>Notion of Sence,</hi> what can help it besides <hi>Bedlam?</hi> However, if he be such a dreadful <hi>Satyrist</hi> as he makes us believe in the Postscript to his <hi>Moralist,</hi> he'll find somewhat here to exercise his <hi>Talent,</hi> and perhaps let the Doctor take breath, while he's employed about other Business. I'll neither trouble the Readers nor Authors any more, but, till we next meet again, bid 'em farewel altogether.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:60550:4"/>
+            <head>
+               <hi>RABSHAKEH VAPƲLANS:</hi> OR, AN ANSWER TO THE <hi>Tribe of Levi.</hi>
+            </head>
+            <lg>
+               <l>I'Admire, my Friend! what madness has pos<g ref="char:EOLhyphen"/>sess'd</l>
+               <l>The <hi>Brain-sick World;</hi> in what wild posture dress'd!</l>
+               <l>Like Beasts by <hi>Gad-Flies</hi> stung, they frisk about</l>
+               <l>An Antick, giddy, and disorder'd <hi>Rout:</hi>
+               </l>
+               <l>How few there are who steer by <hi>Reasons</hi> rules;</l>
+               <l>How over-stock'd the pester'd <hi>Age</hi> with <hi>Fools.</hi>
+               </l>
+               <pb n="2" facs="tcp:60550:5"/>
+               <l>And <hi>Fools</hi> we have of every Shape and Size,</l>
+               <l>Of all Professions, Ranks and Qualities;</l>
+               <l>But most the <hi>Wou'd-be-Wits,</hi> and <hi>wou'd-be-Wise.</hi>
+               </l>
+               <l>The <hi>witty Fool</hi> must have the foremost place,</l>
+               <l>Or else, slap-dash, he has ye o'er the Face;</l>
+               <l>And lugs ye into his next dull <hi>Lampoon,</hi>
+               </l>
+               <l>The sport and ridicule of all the <hi>Town:</hi>
+               </l>
+               <l>Sets up an <hi>Author,</hi> and a Man of Parts,</l>
+               <l>In spite of <hi>Nature</hi>'s self, and all <hi>good Arts;</hi>
+               </l>
+               <l>Then shows lewd <hi>Vice</hi> triumphant on the <hi>Stage,</hi>
+               </l>
+               <l>To tickle a Debaucht, a thoughtless <hi>Age:</hi>
+               </l>
+               <l>Where all the <hi>Sport is spoil'd,</hi> unless there be</l>
+               <l>Some poor <hi>Sir John</hi> or <hi>Smirk,</hi> for <hi>Nokes</hi> or <hi>Lee:</hi>
+               </l>
+               <l>The very <hi>Salt</hi> and <hi>Flame</hi> o'th' <hi>Comedie.</hi>
+               </l>
+               <l>Ne'er fear't, it takes, so you but <hi>swinge the PRIEST;</hi>
+               </l>
+               <l>What needs there more? the very <hi>Word's a Jest.</hi>
+               </l>
+               <l>Plot, Sence, true Wit, good Humour, all, 'tis stuff:</l>
+               <l>E'en spare this pains, your <hi>Parson</hi> is enough.</l>
+               <l>Write but his single <hi>part</hi> to th' Life, and well,</l>
+               <l>Your <hi>Third day</hi>'s <hi>Gains</hi> sufficiently 'twill swell,</l>
+               <l>And render the <hi>success</hi> infallible.</l>
+               <l>
+                  <hi>Mufti,</hi> or <hi>Priest,</hi> or <hi>Bishop</hi> 'tis the same,</l>
+               <l>'Twill save your <hi>Play;</hi> such Magick's in the Name,</l>
+               <l>Tho' all the <hi>Club of Wits</hi> resolv'd to <hi>damn.</hi>
+               </l>
+               <l>This <hi>Art</hi> was at the first found out by <hi>BAYS;</hi>
+               </l>
+               <l>The surest Rules in all his wise <hi>Essays:</hi>
+               </l>
+               <l>He led the <hi>Dance.</hi> Nor was't in him so strange,</l>
+               <l>Inspir'd by Interest, Madness and Revenge:</l>
+               <pb n="3" facs="tcp:60550:5"/>
+               <l>Possess'd with Pride, and hurry'd by Despair,</l>
+               <l>At his approach <hi>whipt</hi> from the <hi>House of Prayer,</hi>
+               </l>
+               <l>Nor must such <hi>unclean Beasts</hi> be offer'd there:</l>
+               <l>But there are higher <hi>Provocations</hi> yet;</l>
+               <l>Poor <hi>wither'd Bays</hi> —</l>
+               <l>For the <hi>Rehearsal</hi> can't a <hi>Priest</hi> forget,</l>
+               <l>Since one of that <hi>dull</hi> Plodding witless Fry,</l>
+               <l>That harmless <hi>stingless</hi> Hive, if Fame not Lye,</l>
+               <l>Had at the least a <hi>Finger in the Pie:</hi>
+               </l>
+               <l>This treasur'd deep remains upon the score,</l>
+               <l>For this the <hi>Bard</hi> a heavy Vengeance swore,</l>
+               <l>And with the <hi>Gown</hi> proclaim'd eternal War;</l>
+               <l>Which must henceforward passively submit</l>
+               <l>To th' <hi>Fury</hi> of his <hi>Dullness</hi> and his <hi>Wit.</hi>
+               </l>
+               <l>* <hi>Stew'd Prunes and Snush</hi> he'll now no longer use</l>
+               <l>With this; if she the generous Race refuse,<note place="margin">
+                     <hi>Vid.</hi> Rehear<g ref="char:EOLhyphen"/>sal.</note>
+               </l>
+               <l>He spurs his jaded <hi>unperforming Muse.</hi>
+               </l>
+               <l>
+                  <hi>Priests</hi> on the <hi>Stage</hi> for the same Reason come,</l>
+               <l>As in the <hi>Pulpit</hi> the <hi>prolonging Hum:</hi>
+               </l>
+               <l>As what comes next, to mend a <hi>Breach</hi> is brought,</l>
+               <l>These serve to fill the empty <hi>Gaps of Thought;</hi>
+               </l>
+               <l>Whilst the young <hi>Todpole Wits</hi> applaud and smile</l>
+               <l>Around this <hi>doating Homer</hi> of our Isle:</l>
+               <l>And all those <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>auseous Streams</hi> which daily pour</l>
+               <l>From his soul <hi>Intrails,</hi> greedily devour.</l>
+               <l>With his stoln <hi>Poison,</hi> and their own they <hi>swell,</hi>
+               </l>
+               <l>And with hoarse Notes disturb the <hi>Sacred Well;</hi>
+               </l>
+               <l>With noisom <hi>Slime</hi> pollute that silver Spring,</l>
+               <l>And croak as loud as <hi>Father Bays</hi> could sing.</l>
+               <pb n="4" facs="tcp:60550:6"/>
+               <l>In some odd Hole let's throw neglected <hi>Bays,</hi>
+               </l>
+               <l>As <hi>Greens</hi> and <hi>Hollys</hi> are at <hi>Candlemas.</hi>
+               </l>
+               <l>But among all the rest that teaze the <hi>Town,</hi>
+               </l>
+               <l>Spruce <hi>Poet Pricket</hi> has my Vote alone;</l>
+               <l>Or if he ere should fall, in my Esteem,</l>
+               <l>'Tis only <hi>Saffold</hi> must out-rival him.</l>
+               <l>The <hi>Court</hi> and <hi>Stage</hi> may ene do what they please,</l>
+               <l>Our <hi>City-Bays</hi> are sure to One of these,</l>
+               <l>
+                  <note place="margin">Author of the <hi>Tribe of Levi,</hi> who formerly stood for the City Poet's Place.</note>(Unless on them the <hi>Man of War</hi> * should seize.)</l>
+               <l>Their <hi>Spirit</hi> the same, to the same heights they clime;</l>
+               <l>Their <hi>Art</hi> the same, both <hi>tag their Bills with Rhyme.</hi>
+               </l>
+               <l>And very near akin their Occupation,</l>
+               <l>Both live o'th' <hi>Sins</hi> and <hi>Follies</hi> of the Nation.</l>
+               <l>
+                  <note place="margin">Momus Ri<g ref="char:EOLhyphen"/>dens.</note>* This by his <hi>Pills,</hi> that by his <hi>weekly Print,</hi> *</l>
+               <l>With <hi>Cartloads</hi> of dull Doggrell railing in't.</l>
+               <l>Tedious, Friend <hi>Elkanah!</hi> as yours or mine,</l>
+               <l>Heavy as <hi>Nahum:</hi> since he drinks no Wine,</l>
+               <l>
+                  <hi>Incarnate dullness</hi> reigns in every Line.</l>
+               <l>But let's not wrong the Wretch, when pains he'll take:</l>
+               <l>He'll very <hi>tolerable Ballads</hi> make.</l>
+               <l>To <hi>Thought,</hi> it's true, he never made pretence,</l>
+               <l>His care is <hi>Notes</hi> and <hi>Words,</hi> find you the <hi>Sence.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>How shall the pester'd <hi>Warehouse</hi> then get clear?</l>
+               <l>What must be done to save the <hi>Stationer?</hi>
+               </l>
+               <l>'Tis true, the <hi>Friars</hi> at the worst are <hi>near;</hi>
+               </l>
+               <l>But that's the last, the <hi>desperate Cure,</hi> we know</l>
+               <l>Not to be us'd, till the <hi>Disease</hi> is so.</l>
+               <pb n="5" facs="tcp:60550:6"/>
+               <l>He has it, right or wrong the <hi>Priest</hi> comes in,</l>
+               <l>T'attone his <hi>Dullness,</hi> and the Peoples <hi>Sin.</hi>
+               </l>
+               <l>The <hi>Tune</hi> be what it will, <hi>He</hi> all along,</l>
+               <l>
+                  <hi>He</hi> only is the <hi>Burden</hi> of the <hi>Song.</hi>
+               </l>
+               <l>Be the <hi>Report</hi> of Lap-dog, Miss, or Spark,</l>
+               <l>Or French, or Turk, still <hi>Priest</hi> is the <hi>Remark.</hi>
+               </l>
+               <l>Has <hi>Lady</hi> in fair <hi>Qu</hi>— late miscarried?</l>
+               <l>Then thank the <hi>Priest</hi> who her and <hi>C</hi>— marry'd.</l>
+               <l>Has <hi>Priest</hi> been robb'd? he'll openly profess,</l>
+               <l>The Villains could in <hi>Conscience do no less.</hi>
+               </l>
+               <l>Are the <hi>Turks</hi> beat? These <hi>Priests</hi> undo the <hi>PORT,</hi>
+               </l>
+               <l>And, if they're wise, they'll hang the <hi>Mufti</hi> for't.</l>
+               <l>Or, has the <hi>Emperor</hi> lately lost <hi>Belgrade?</hi>
+               </l>
+               <l>No doubt 'twas long of some o'th' self-same <hi>Trade!</hi>
+               </l>
+               <l>The <hi>German Priests</hi> that <hi>Powder Treason</hi> made,</l>
+               <l>Hired with <hi>French Luidores,</hi> pray mark the Jest!</l>
+               <l>They e'en <hi>blew up themselves,</hi> and all the rest.</l>
+               <l>This oft, when the <hi>grave Dons</hi> of Business come,</l>
+               <l>And find poor <hi>Momus</hi> in the <hi>Coffee-Room,</hi>
+               </l>
+               <l>This from expecting <hi>Flames</hi> has him repriev'd,</l>
+               <l>Who, when condemn'd, by's <hi>Anti-Clergy</hi> liv'd.</l>
+               <l>Him Sage Sir <hi>Pol,</hi> on plodding Elbow staid,</l>
+               <l>Has oft with his <hi>Four Eyes and Mouth</hi> survey'd</l>
+               <l>His Tea, and that with equal <hi>Gust</hi> he drinks,</l>
+               <l>And by his Looks would have you think he thinks.</l>
+               <l>
+                  <hi>"Well—on my Faith, he feagues these Black-coat Sparks;</hi>
+               </l>
+               <l>
+                  <hi>"A pretty witty Thing, and shrowd</hi> Remarks!</l>
+               <pb n="6" facs="tcp:60550:7"/>
+               <l>But what's all this you'll tell me to the <hi>Text,</hi>
+               </l>
+               <l>The <hi>Tribe of Levi?</hi> Patience! that comes next.</l>
+               <l>The <hi>Anti-Chamber</hi> sure must first be past:</l>
+               <l>We to the <hi>Presence</hi> shall arrive at last.</l>
+               <l>
+                  <note place="margin">Author of the <hi>Tribe of Levi</hi> lately come from <hi>Ireland.</hi>
+                  </note>These all are <hi>Lackeys</hi> to that Author's <seg rend="sup">b</seg> Fame,</l>
+               <l>Who from the <hi>Land of Wit</hi> and <hi>Valour</hi> came;</l>
+               <l>And dares in both so large a portion claim.</l>
+               <l>So Civil, so Gentile, so Clean, and Neat</l>
+               <l>His Merit, yet his Modesty so great,</l>
+               <l>As never will be <hi>match'd,</hi> nor has been yet.</l>
+               <l>Through all his Works this <hi>Truth</hi> appears so plain,</l>
+               <l>Through all his <hi>Life</hi> there runs so pure a Vein,</l>
+               <l>He need not <hi>Write</hi> himself a<note n="c" place="margin">He usually Subscribes his Works thus, <hi>By</hi> J.T. <hi>Gen<g ref="char:EOLhyphen"/>tleman.</hi>
+                  </note>
+                  <hi>Gentleman.</hi>
+               </l>
+               <l>His <hi>Country's Glory and its Nymphs delight,</hi>
+               </l>
+               <l>Dreaded in <hi>Mars</hi>'s as in <hi>Venus</hi> fight,</l>
+               <l>And till the danger comes, <hi>A Man of Might.</hi>
+                  <note n="d" place="margin">That thought is his own. <hi>Vid.</hi> pag. <hi>2.</hi>
+                  </note>
+               </l>
+               <l>Say not the ill-bred <hi>Bird defiles his Nest,</hi>
+               </l>
+               <l>When now and then he gently <hi>rubs the Priest;</hi>
+               </l>
+               <l>Or that he is to his own <hi>Blood</hi> unjust,</l>
+               <l>
+                  <note place="margin">Who was a Priest.</note>And rudely tramples on his <hi>Father</hi>'s Dust;</l>
+               <l>But rather blame his <hi>Memory's</hi> neglect:</l>
+               <l>
+                  <hi>Great Wits</hi> we know can never far <hi>reflect.</hi>
+               </l>
+               <l>At worst it argues his <hi>Design was good,</hi>
+               </l>
+               <l>When thus he spares not his own <hi>F<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>esh and Blood;</hi>
+               </l>
+               <l>
+                  <note place="margin">Vid. <hi>pag.</hi> 5.</note>
+                  <hi>"But to unsettle Church as 'twas before,</hi>
+               </l>
+               <l>
+                  <hi>"Will beat his Dad, and call his Mother Whore.</hi>
+               </l>
+               <l>Say not his <hi>Bride,</hi> of lovely Mind and Face,</l>
+               <l>Receiv'd her Life from one of <hi>Levi</hi>'s Race.</l>
+               <pb n="7" facs="tcp:60550:7"/>
+               <l>By Marriage Bonds a piece of <hi>him</hi> she's grown,</l>
+               <l>Torn from <hi>her</hi> Stock she's grafted in <hi>his own.</hi>
+               </l>
+               <l>What if 'tis urg'd he <hi>was himself a Priest,</hi>
+               </l>
+               <l>Or else a <hi>puny Deacon</hi> at the least:</l>
+               <l>A <hi>kind well-willer</hi> to the Desk or Tub,</l>
+               <l>At <hi>Sam</hi>'s or <hi>Joe</hi>'s a Member of the <hi>Club.</hi>
+               </l>
+               <l>Conn'd <hi>Baxter,</hi> till his <hi>Study's all in Flames,</hi>
+                  <note n="a" place="margin">Ask him the meaning on't.</note>
+               </l>
+               <l>Dogs-ear'd and thumb'd <hi>Wallebius, Charnock, Ames.</hi>
+               </l>
+               <l>But did he not forsake that <hi>Threadbare</hi> Trade,</l>
+               <l>And in good time his <hi>Abjuration</hi> made?</l>
+               <l>No <hi>Turk</hi> so trusty as a <hi>Renegade.</hi>
+               </l>
+               <l>Since when, without respect he mawls the <hi>Priest,</hi>
+               </l>
+               <l>To prove the <hi>Apostacy</hi> was not in Jest;</l>
+               <l>If all, his <hi>Tutor</hi> too among the rest:</l>
+               <l>Forgets the Debt, as <hi>Nero</hi> his, nor spares</l>
+               <l>His <hi>Sence,</hi> his <hi>Vertue,</hi> or his <hi>Silver-Hairs.</hi>
+               </l>
+               <l>Were One excepted, we might doubt a Bribe,</l>
+               <l>Or that he's still inclin'd to <hi>Levi</hi>'s <hi>Tribe.</hi>
+               </l>
+               <l>
+                  <hi>Hang all's the word;</hi> nor can he, it's confest,</l>
+               <l>Forget it soon; he learn'd it in the <hi>West:</hi>
+               </l>
+               <l>For grant him <hi>Priest,</hi> he scorn'd the <hi>Passive</hi> Cant,</l>
+               <l>And ever was a <hi>Parson-Militant.</hi>
+               </l>
+               <l>Whatever <hi>Joshua made for a Buffoon,</hi>
+               </l>
+               <l>Take <hi>T—h</hi> for a <hi>Spiritual Dragoon.</hi>
+                  <note place="margin">
+                     <hi>P.</hi> 15. <hi>l.</hi> 8.</note>
+               </l>
+               <l>Say all ye <hi>conscious Hedges,</hi> did he fly,</l>
+               <l>Or sneak <hi>behind</hi> to shun the Enemy?</l>
+               <l>Or say each <hi>Western Ditch,</hi> to which he fled</l>
+               <l>(Since 'tis <hi>Almanzors</hi> only can make Head</l>
+               <pb n="8" facs="tcp:60550:8"/>
+               <l>Against <hi>whole Armies)</hi> did he quake for fear,</l>
+               <l>Or by the <hi>Smell</hi> invite his <hi>Hunters</hi> near?</l>
+               <l>Or was not he, say <hi>Envy</hi> what it can;</l>
+               <l>Say, was not he the <hi>Man, the more than Man;</hi>
+               </l>
+               <l>Whom e'en the <hi>Western Hangman</hi> could not quail,</l>
+               <l>Proof against <hi>Jeffreys, Halter, Whip</hi> and <hi>Jayl.</hi>
+               </l>
+               <l>Nay beat him clear in <hi>Brow,</hi> his <hi>Match</hi> in <hi>Sence,</hi>
+               </l>
+               <l>And e'en at his own Weapon—<hi>Impudence.</hi>
+               </l>
+               <l>(Such force in <hi>Modesty</hi> and <hi>Innocence!</hi>)</l>
+               <l>Heav'ns! how the <hi>Tyger yell'd</hi> that fatal Day,</l>
+               <l>Reveng'd at large upon the <hi>weaker Prey;</hi>
+               </l>
+               <l>Tho' on this <hi>sturdier Beast</hi> his hopes were crost,</l>
+               <l>And worse than all, his <hi>Reputation</hi> lost.</l>
+               <l>The <hi>restive Thing</hi> th' appointed Knot refus'd,</l>
+               <l>He <hi>hung an Arse,</hi> nor would be tamely noos'd.</l>
+               <l>The <hi>Lordly Butcher</hi> struts, and fumes, and raves;</l>
+               <l>And swears in vain, and works, and sweats, and slaves,</l>
+               <l>And did at last, with much ado invent</l>
+               <l>A pretty <hi>conscionable Punishment:</hi>
+               </l>
+               <l>For since no <hi>Blood</hi> he to his <hi>Brow</hi> could draw,</l>
+               <l>He'd on his <hi>Back</hi> inscribe fierce <hi>Draco's Law.</hi>
+               </l>
+               <l>Poor <hi>Jack,</hi> like <hi>wandring Jew,</hi> was doom'd to stray</l>
+               <l>In a <hi>long Pilgrimage</hi> each Market Day;</l>
+               <l>And worse than all, <hi>do Penance</hi>
+                  <note n="a" place="margin">He was con<g ref="char:EOLhyphen"/>demn'd to be whipt through all the Mar<g ref="char:EOLhyphen"/>ket-Towns in <hi>Dorsetshire</hi> once a Year during Life; on which he Petition'd to have the Fa<g ref="char:EOLhyphen"/>vour of being <hi>Hang'd,</hi> and so got off from both.</note> all the way.</l>
+               <l>No wonder at this <hi>Sentence</hi> he repines,</l>
+               <l>And a <hi>Petition for a Halter</hi> signs:</l>
+               <l>"<note n="b" place="margin">
+                     <hi>Vid.</hi> Tribe of Levi, <hi>pag.</hi> 11. <hi>lin.</hi> 18.</note>
+                  <hi>Hanging's the fittest Death for</hi> Such <hi>Divines.</hi>
+               </l>
+               <l>(Old Grandfire <hi>Sternhold's Psalter</hi> he may spare,</l>
+               <l>And his own <hi>doleful Psalms</hi> make use of there.)</l>
+               <pb n="9" facs="tcp:60550:8"/>
+               <l>Besides, since some o<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s <hi>Kin</hi> the way did try,</l>
+               <l>He thought by a <hi>Disease</hi> 'twas best to die</l>
+               <l>
+                  <hi>Hereditary to his Family.</hi>
+               </l>
+               <l>The <hi>Humour</hi>'s good enough, tho' <hi>push'd</hi> too far.</l>
+               <l>
+                  <hi>Enjoy't your Race!</hi> but I should think the <hi>Air</hi>
+               </l>
+               <l>An odd <hi>Tartarian sort of Sepulchre.</hi>
+               </l>
+               <l>What if one <hi>Ʋnkle</hi> took that Road, and t'other</l>
+               <l>Rides whip and spur to overtake his <hi>Brother?</hi>
+               </l>
+               <l>All <hi>Priests</hi> are not so fond of these Extremes,</l>
+               <l>Nor fansie to be <hi>hang'd</hi> for <hi>either James.</hi>
+                  <note n="a" place="margin">York <hi>or</hi> Monmouth.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>But after all this dull malicious stuff,</hi>
+               </l>
+               <l>
+                  <hi>You needs must own the Poem's sharp enough.</hi>
+               </l>
+               <l>
+                  <hi>There's your</hi> true stroke! <hi>How much to th' Life he writes?</hi>
+               </l>
+               <l>
+                  <hi>How through and through his angry</hi> Satyr <hi>bites?</hi>
+               </l>
+               <l>
+                  <hi>Here's trusty</hi> Fangs — <hi>they never quit their hold:</hi>
+               </l>
+               <l>
+                  <hi>Is not the</hi> Cur <hi>well worth his weight in Gold?</hi>
+               </l>
+               <l>
+                  <hi>He runs at all, and none that cross him spar'd,</hi>
+               </l>
+               <l>
+                  <hi>He scorns to fly at less than the</hi> whole Herd.</l>
+            </lg>
+            <lg>
+               <l>Yes— 'tis confess'd he's <hi>Sharp,</hi> at such a rate</l>
+               <l>As are that <hi>Club of Wits</hi> at <hi>Billingsgate;</hi>
+               </l>
+               <l>Where one, when t'other sold her <hi>Fish</hi> before,</l>
+               <l>I lately heard how <hi>wittily</hi> she swore,</l>
+               <l>Bid her be <hi>hang'd, and call'd her Jade and Whore.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Gently, good Sir, we own these Words a</hi> Crime,</l>
+               <l>
+                  <hi>And scurrillous and lewd when</hi> out of Rhyme:</l>
+               <l>
+                  <hi>If in plain</hi> Prose <hi>pronounc'd in Street or School,</hi>
+               </l>
+               <l>
+                  <hi>They're richly worth the</hi> Lash <hi>or</hi> Ducking-stool.</l>
+               <pb n="10" facs="tcp:60550:9"/>
+               <l>
+                  <hi>The</hi> Commons <hi>soon, and P—d's Reverend Court,</hi>
+               </l>
+               <l>
+                  <hi>Would get the Author in and swinge him for't.</hi>
+               </l>
+               <l>
+                  <hi>But sure a Poem is excepted still:</hi>
+               </l>
+               <l>
+                  <hi>No Laws touch that; where, like a</hi> Chancery Bill,</l>
+               <l>
+                  <hi>Invention, Truth, and Reason both supplies;</hi>
+               </l>
+               <l>
+                  <hi>Nor must we answer for Abuse and Lyes.</hi>
+               </l>
+               <l>But put the Case at worst, who'd not submit</l>
+               <l>To one <hi>sound Lashing</hi> to be thought a <hi>Wit?</hi>
+               </l>
+               <l>And were not now the <hi>Reign of Jeff'ry</hi>'s o'er,</l>
+               <l>His <hi>Sentence</hi> can't be worse than 'twas before;</l>
+               <l>While still he's in <hi>reserve</hi> his ancient Trick,</l>
+               <l>Can for his <hi>Back</hi> compound and yield his <hi>Neck.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Poor feeble Satyrist? and is this all</hi>
+               </l>
+               <l>
+                  <hi>The weak effect of thy enervate Gall?</hi>
+               </l>
+               <l>
+                  <hi>So soft each Stab, so harmless every Jest,</hi>
+               </l>
+               <l>
+                  <hi>The World will think thee half a Priest at least.</hi>
+               </l>
+               <l>
+                  <hi>Ʋnrein thy Thunders rather, and let fly</hi>
+               </l>
+               <l>
+                  <hi>Thy sharpest pointed Lightnings round the Sky,</hi>
+               </l>
+               <l>
+                  <hi>Then like</hi> Jove<hi>'s Bird aim at the destin'd Head,</hi>
+               </l>
+               <l>
+                  <hi>Shoot from the scattering Clouds and strike him dead.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>No — still I must th' <hi>unequal War</hi> refuse;</l>
+               <l>Ah! too <hi>below the vengeance</hi> of my Muse,</l>
+               <l>Who like <hi>Alcides,</hi> with her <hi>Infant hands</hi>
+               </l>
+               <l>Could crush that <hi>Viper</hi> in her <hi>swadling Bands,</hi>
+               </l>
+               <l>But would not wish so <hi>weak a Foe</hi> Disgrace,</l>
+               <l>Where even the <hi>Conquest</hi> had at best been <hi>base</hi>
+               </l>
+               <l>Tho' I the <hi>meanest of the tuneful Race.</hi>
+               </l>
+               <pb n="11" facs="tcp:60550:9"/>
+               <l>Ah! wou'd for once <hi>blind Fortune,</hi> as the VVhore</l>
+               <l>Has done for many a <hi>Fool and Knave</hi> before,</l>
+               <l>VVou'd she but make the <hi>Blockhead</hi> great and high,</l>
+               <l>And find some time to dress him e're he dye,</l>
+               <l>In all the VVorld's <hi>fantastick Bravery:</hi>
+               </l>
+               <l>VVere he but <hi>high</hi> enough to <hi>value</hi> Fame,</l>
+               <l>Or cou'd he <hi>fall,</hi> scarce <hi>WILLIAM</hi>'s <hi>sacred Name,</hi>
+               </l>
+               <l>VVhich next the <hi>unutterable</hi> I revere,</l>
+               <l>Scarce <hi>WILLIAM</hi>'s <hi>sacred Name</hi> shou'd guard him there,</l>
+               <l>'Till when if <hi>publick Justice</hi> find him not,</l>
+               <l>Let him remain neglected or forgot,</l>
+               <l>His <hi>Name</hi> and <hi>Works</hi> alike, together <hi>rot!</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>And wont you then, when his true Face is shown,</hi>
+               </l>
+               <l>
+                  <hi>Wipe off those heaps of Scandal he has thrown</hi>
+               </l>
+               <l>
+                  <hi>On all he finds less ugly than his own?</hi>
+               </l>
+               <l>
+                  <hi>Or he, or those who their weak Forces joyn,</hi>
+               </l>
+               <l>
+                  <hi>And with the same success pursue the same design,</hi>
+               </l>
+               <l>
+                  <hi>And in some lofty parabolick strain,</hi>
+               </l>
+               <l>
+                  <hi>Old</hi> England<hi>'s Worthies celebrate again.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>VVhat need, dear Friend, of what's so much in vain,</l>
+               <l>
+                  <hi>Scandalls,</hi> when at <hi>exalted Virtue</hi> cast,</l>
+               <l>They reach it not, beyond their reach 'tis plac'd,</l>
+               <l>But on the <hi>Authors Heads</hi> return at last.</l>
+               <l>If <hi>Water</hi> on the <hi>Milk-white Swan</hi> we fling,</l>
+               <l>It shakes it off, nor <hi>wets</hi> its Silver wing.</l>
+            </lg>
+            <lg>
+               <l>But in good earnest wou'd you have me look</l>
+               <l>Each Verse or Chapter in the <hi>Pentateuch,</hi>
+               </l>
+               <l>And hunt for <hi>Paralells</hi> in every Book?</l>
+               <pb n="12" facs="tcp:60550:10"/>
+               <l>
+                  <hi>Murder Chronology,</hi> as he before,</l>
+               <l>
+                  <hi>Korah</hi> and all his company restore</l>
+               <l>When <hi>burnt to dust,</hi> nay kindly haste 'em o'er</l>
+               <l>With valiant <hi>Joshua</hi> and his faithful Band,</l>
+               <l>Thro' <hi>Jordan</hi>'s wondring Waves to <hi>Canaan</hi>'s blissfull Land?</l>
+               <l>Or what if we a little lower fall</l>
+               <l>To thy unhappy Fate, <hi>rejected Saul!</hi>
+               </l>
+               <l>Who <hi>God</hi> forsaking, didst to <hi>Endor</hi> run,</l>
+               <l>And wert <hi>undone</hi> least thou shouldst be <hi>undone;</hi>
+               </l>
+               <l>Or sing his brave, his lov'd, his envy'd <hi>Son;</hi>
+                  <note n="(a)" place="margin">
+                     <hi>David</hi> his Son-in Law.</note>
+               </l>
+               <l>How <hi>Shimei</hi> curst, how <hi>Sheba</hi> did <hi>rebell,</hi>
+               </l>
+               <l>Or proud <hi>Philistian Hosts</hi> before him fell,</l>
+               <l>And right or wrong make out the <hi>Paralell;</hi>
+               </l>
+               <l>Were not the <hi>World</hi> with this already <hi>tir'd,</hi>
+               </l>
+               <l>A deeper <hi>thought,</hi> a <hi>Genius</hi> are requir'd;</l>
+               <l>But <hi>stroaks</hi> and <hi>colours</hi> every where to give,</l>
+               <l>And make a <hi>work</hi> of such a Nature live.</l>
+               <l>Howe'er, to oblige you, Sir, for once I'll tell,</l>
+               <l>The <hi>naked Truth, without a Parable;</hi>
+               </l>
+               <l>
+                  <hi>Naked,</hi> or drest in honest <hi>Country Grey,</hi>
+               </l>
+               <l>Nor rudely <hi>base,</hi> nor too profusely <hi>gay;</hi>
+               </l>
+               <l>I <hi>think</hi> I'm <hi>right,</hi> and what I <hi>think</hi> I'll <hi>say.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Those who all <hi>Heylen</hi> and <hi>Mercator</hi> scan,</l>
+               <l>Show me a place from <hi>London</hi> to <hi>Japan,</hi>
+               </l>
+               <l>From <hi>California,</hi> down to <hi>Magelan,</hi>
+               </l>
+               <l>Where the wild Natives don't with <hi>Reverence</hi> treat,</l>
+               <l>Whoever on their Gods and Altars wait?</l>
+               <pb n="13" facs="tcp:60550:10"/>
+               <l>If <hi>universal Custom</hi> gives us Rules</l>
+               <l>More sure than all the <hi>Jargon</hi> of the <hi>Schools,</hi>
+               </l>
+               <l>And with <hi>unconquer'd Demonstration</hi> shows,</l>
+               <l>What <hi>Truth</hi> and <hi>Reason</hi> untaught <hi>Nature</hi> knows,</l>
+               <l>As all the World confess; we need not fear,</l>
+               <l>The Argument will hold as strongly here:</l>
+               <l>If he's no <hi>Man</hi> a <hi>God</hi> disowns, at least</l>
+               <l>He who <hi>maliciously</hi> affronts his <hi>Priest,</hi>
+               </l>
+               <l>By the same Rule must pass for <hi>half a Beast.</hi>
+               </l>
+               <l>He who through vast <hi>Tartarian Desarts</hi> runs,</l>
+               <l>His <hi>journey</hi> almost <hi>equal</hi> with the <hi>Suns,</hi>
+               </l>
+               <l>Nor any other <hi>Right</hi> but <hi>Conquest</hi> owns;</l>
+               <l>Who to his Sword his <hi>Life</hi> like <hi>Esau</hi> ows,</l>
+               <l>All his <hi>rich Neighbours,</hi> justly thought his <hi>Foes,</hi>
+               </l>
+               <l>Asks his <hi>Priest's Benediction</hi> e're he goes;</l>
+               <l>And vows he in the <hi>Booty</hi> shall partake,</l>
+               <l>If a good <hi>road</hi> and safe <hi>retreat</hi> he make.</l>
+               <l>The <hi>European Tartars,</hi> who reside,</l>
+               <l>Far greater Plagues upon the <hi>Western side,</hi>
+               </l>
+               <l>And on the <hi>Rhine</hi> far greater mischief doe,</l>
+               <l>Than t'other on the <hi>Volga</hi> or <hi>Danow,</hi>
+               </l>
+               <l>These and their <hi>Sultan Lewis</hi> (far above</l>
+               <l>
+                  <hi>Galga and his</hi>) pretend their <hi>Priests</hi> to love,</l>
+               <l>Without their <hi>Prayers</hi> ne'er expect to thrive,</l>
+               <l>And are in Truth, the <hi>godliest Thieves</hi> alive:</l>
+               <l>Thus <hi>Cannibals</hi> themselves, tho' nurst in War,</l>
+               <l>And <hi>blood</hi> for <hi>milk</hi> their Infant Lips besmear,</l>
+               <l>Tho' they <hi>each other eat,</hi> their <hi>Priests</hi> will spare.</l>
+               <pb n="14" facs="tcp:60550:11"/>
+               <l>
+                  <hi>But what's all this,</hi> crys one, <hi>to th' Case in hand,</hi>
+               </l>
+               <l>
+                  <hi>Knaves will not, and Fools cannot understand</hi>
+               </l>
+               <l>
+                  <hi>Their Christian Liberty, to abuse the Priest,</hi>
+               </l>
+               <l>
+                  <hi>And treat the Tribe of</hi> Levi <hi>how they list?</hi>
+               </l>
+               <l>
+                  <hi>Or if we'd know the bounds of just and true</hi>
+               </l>
+               <l>
+                  <hi>What did the brave, the ancient Romans do,</hi>
+               </l>
+               <l>
+                  <hi>E're Priestly Craft was form'd into a Trade,</hi>
+               </l>
+               <l>
+                  <hi>And Clergy's Yoke on easie Nations laid:</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Well, to be Friends, we'll give ye that and more,</l>
+               <l>Both <hi>Rome,</hi> and those who flourish'd long before,</l>
+               <l>Thought it their highest <hi>Crime</hi> against <hi>their State,</hi>
+               </l>
+               <l>
+                  <hi>Their Churches</hi> ancient Rites to Violate;</l>
+               <l>Your <hi>Master Hobbs</hi> has taught you what to say:</l>
+               <l>
+                  <hi>They're Heathens all, wou'd</hi> you be <hi>worse</hi> than they?</l>
+               <l>Yet nigher to the <hi>Fountain</hi> let's repair,</l>
+               <l>And this bright <hi>Truth</hi> will still be clearer there;</l>
+               <l>VVhere <hi>Monarchies</hi> from <hi>Families</hi> did spring,</l>
+               <l>A <hi>Patriarch</hi> was both <hi>Father, Priest</hi> or <hi>King,</hi>
+               </l>
+               <l>Tho' of the three, a <hi>Priest</hi> the highest place,</l>
+               <l>A <hi>Prince</hi> then thought the <hi>Title</hi> no disgrace;</l>
+               <l>The <hi>wondrous King</hi> of ancient <hi>Salem</hi>'s Town,</l>
+               <l>VVhethe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> from <hi>Heav'n</hi> it self he first came down,</l>
+               <l>The <hi>same</hi> who did long after leave the Skies,</l>
+               <l>
+                  <hi>A God in frail Humanity's disguise:</hi>
+               </l>
+               <l>Or whether <hi>he</hi> deduc'd from Mortal Stem;</l>
+               <l>The Sacred <hi>Priesthood</hi> he did not contemn,</l>
+               <l>But joyn'd the <hi>Mitre</hi> to his <hi>Diadem.</hi>
+               </l>
+               <l>Nor did the <hi>Conquering Hebrew</hi> him disdain,</l>
+               <l>But paid him <hi>Tithes</hi> in <hi>Saveh</hi>'s <hi>royal Plain.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="15" facs="tcp:60550:11"/>
+               <l>
+                  <hi>I thought at last you wou'd be forc'd to fly</hi>
+               </l>
+               <l>
+                  <hi>To your old shift, Infallibility;</hi>
+               </l>
+               <l>
+                  <hi>And tho' a while you reason may pretend,</hi>
+               </l>
+               <l>
+                  <hi>Trump up a Text or two, and there's an end.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But why so eager? not so fast my Friend;</l>
+               <l>Have we not prov'd the <hi>Question</hi> in suspence,</l>
+               <l>That <hi>Priests all times, all places reverence;</hi>
+               </l>
+               <l>That whether Heathen, Christian, Turk, or Jew,</l>
+               <l>They all have more <hi>civility</hi> than you?</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>I thought what Arguments,</hi> a Spark replies,</l>
+               <l>
+                  <hi>These Priests cou'd bring to back their Trick and Lies;</hi>
+               </l>
+               <l>
+                  <hi>Sense, Reason, Custom, they in vain pretend,</hi>
+               </l>
+               <l>
+                  <hi>Damn 'em! 'tis a Cheat from end to end:</hi>
+               </l>
+               <l>
+                  <hi>That all the World respects 'em, we deny,</hi>
+               </l>
+               <l>
+                  <hi>The wise see through it,</hi> or of those wise am I:</l>
+               <l>
+                  <hi>What Man of sence, which of the Beaux Esprits,</hi>
+               </l>
+               <l>
+                  <hi>That in our Club has taken his Degree,</hi>
+               </l>
+               <l>
+                  <hi>Who laudibly can drink, or whore, or swear,</hi>
+               </l>
+               <l>
+                  <hi>(The World's a Cypher, we the Figures are)</hi>
+               </l>
+               <l>
+                  <hi>In those fine Arts a great Proficient grown,</hi>
+               </l>
+               <l>
+                  <hi>Which of us all who cann't a Priest run down,</hi>
+               </l>
+               <l>
+                  <hi>The silliest, pertest, dullest thing in Town?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Thus would he talk till night, might he run on,</l>
+               <l>For he <hi>talks well</hi> in his <hi>dear self</hi>'s Esteem,</l>
+               <l>
+                  <hi>E'en leave him, for you'll nothing get by him.</hi>
+               </l>
+               <l>Agreed, <hi>to save my Ears,</hi> but first let's goe,</l>
+               <l>A little walk, some <hi>half the Globe,</hi> or so,</l>
+               <l>Where some of his <hi>fair Kindred</hi> him we'll show;</l>
+               <pb n="16" facs="tcp:60550:12"/>
+               <l>Strangely alike <hi>in humour, sense</hi> and <hi>shape,</hi>
+               </l>
+               <l>The wise, the blest <hi>Inhabitants o'th' Cape.</hi>
+                  <note n="(a)" place="margin">The In<g ref="char:EOLhyphen"/>habitants of the <hi>Cape of Good Hope,</hi> the most Bar<g ref="char:EOLhyphen"/>barous Peo<g ref="char:EOLhyphen"/>ple ever yet discovered who own no God, nor good Man<g ref="char:EOLhyphen"/>ners; use raw Guts for their Food and Ornament, <hi>&amp;c.</hi> See the late Ac<g ref="char:EOLhyphen"/>counts of those Peo<g ref="char:EOLhyphen"/>ple.</note>
+               </l>
+               <l>Renowned <hi>Hottamtots,</hi> they dance they sing,</l>
+               <l>Nor fear, nor care, for any future thing;</l>
+               <l>On whose free Necks no <hi>Polititians</hi> rode,</l>
+               <l>Who trouble not themselves with <hi>Priest or God:</hi>
+               </l>
+               <l>Content with <hi>Food,</hi> which <hi>hasty Nature</hi> gave,</l>
+               <l>They neither <hi>Wash,</hi> nor Boyl, nor <hi>Scrape</hi> nor Save,</l>
+               <l>Their <hi>gaudy Guts</hi> they from their Necks displace,</l>
+               <l>And eat, but <hi>pay no Tithes, nor say no Grace.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Why is he mute, and why that scornful smile?</l>
+               <l>Do's not this <hi>Instance</hi> our <hi>Induction</hi> spoil?</l>
+               <l>As much as his 'tis granted, for indeed</l>
+               <l>Those who will own no <hi>God,</hi> no <hi>Priests</hi> will need:</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Sir, we're no Athiests, we wou'd have ye know,</hi>
+               </l>
+               <l>
+                  <hi>We own a God, and if you doubt it, you</hi>
+               </l>
+               <l>
+                  <hi>Shall hear us</hi> Swear, <hi>perhaps</hi> Blaspheme <hi>him too:</hi>
+               </l>
+               <l>
+                  <hi>Nay, if you please us, we'll some Priests allow,</hi>
+               </l>
+               <l>
+                  <hi>If they'll be civil, and their</hi> betters know,</l>
+               <l>Praying and Preaching Cant, <hi>they must forsake,</hi>
+               </l>
+               <l>
+                  <hi>And onely</hi> sing those Hymns <hi>which we shall make:</hi>
+               </l>
+               <l>(Ye blessed ones, if for <hi>Priapus</hi> meant,)</l>
+               <l>
+                  <hi>But Sir, 'tis this that makes us Male-Content,</hi>
+               </l>
+               <l>
+                  <hi>Their Barns are all too full, too large their store,</hi>
+               </l>
+               <l>And you'd reform 'em, just as those before,</l>
+               <l>VVith their <hi>Fat Lands</hi> keep some <hi>lean Hounds</hi> or <hi>Whore:</hi>
+               </l>
+               <l>But they're abusive, sawcy,— you know when,</l>
+               <l>We were no better then <hi>Jack Gentlemen</hi>
+                  <note n="(a)" place="margin">See <hi>Marvel's</hi> Rehearsal transpos'd</note>
+               </l>
+               <pb n="17" facs="tcp:60550:12"/>
+               <l>VVhat wou'd you have this <hi>humble Creature</hi> do?</l>
+               <l>Or hold his <hi>Worships Horse,</hi> or <hi>clean his Shoe.</hi>
+               </l>
+               <l>Mayn't I to what's my <hi>own</hi> make just pretence,</l>
+               <l>Must <hi>Priest</hi> be blam'd, because his <hi>Lord wants sence?</hi>
+               </l>
+               <l>Or must the <hi>Order</hi> spoil <hi>Gentility,</hi>
+               </l>
+               <l>Fatal as the <hi>Cross Bar</hi> in <hi>Heraldry,</hi>
+               </l>
+               <l>If the <hi>dull Patron,</hi> as he first was <hi>whelpt,</hi>
+               </l>
+               <l>
+                  <hi>Unlick't</hi> remains, can the poor <hi>Chaplain</hi> help't?</l>
+               <l>For those who've <hi>sence</hi> or <hi>wit,</hi> are wise or brave,</l>
+               <l>They'll make the <hi>Priest</hi> their <hi>Friend</hi> and not their <hi>Slave;</hi>
+               </l>
+               <l>Nor take delight in cursed <hi>Canaans</hi> sport,</l>
+               <l>To make him <hi>drunk,</hi> and then <hi>despise</hi> him for't.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>But farther all their Sermon</hi>'s <hi>are so dry,</hi>
+               </l>
+               <l>
+                  <hi>One Play will more than twenty Edify:</hi>
+               </l>
+               <l>—Both <hi>much alike</hi> as you dispose the matter,</l>
+               <l>In one you <hi>sleep,</hi> in 'tother <hi>laugh and chatter;</hi>
+               </l>
+               <l>Your <hi>judgment,</hi> too, your <hi>observations</hi> fit,</l>
+               <l>How dull are <hi>R—,</hi> and <hi>St—</hi>
+               </l>
+               <l>
+                  <hi>Yes florid words indeed, but give me sence!</hi>
+               </l>
+               <l>
+                  <hi>And need enough on your own Evidence,</hi>
+               </l>
+               <l>Step in for once, and tarry till they've done,</l>
+               <l>VVhat think you of <hi>St—o, Sc—t,</hi> or <hi>Till—n</hi>
+               </l>
+               <l>
+                  <hi>They read their Lectures moderately well,</hi>
+               </l>
+               <l>
+                  <hi>But that's not Preaching, where's the Life and Zeal,</hi>
+               </l>
+               <l>
+                  <hi>In this you own, that others beat you clear,</hi>
+               </l>
+               <l>
+                  <hi>That, that's the thing,</hi>— B—t, or H—ck <hi>hear!</hi>
+               </l>
+               <l>Some rave and roar, and split the very Stones,</l>
+               <l>VVith apish Gestures and incondite Groans;</l>
+               <l>Are there no Priests in Town but <hi>D—d J—s.</hi>
+               </l>
+               <pb n="18" facs="tcp:60550:13"/>
+               <l>
+                  <hi>Well, what provokes me most, to tell you true,</hi>
+               </l>
+               <l>
+                  <hi>Is their lewd Lives</hi>—can they be worse than you?</l>
+               <l>
+                  <hi>They shou'd be better</hi>—if they are not so,</l>
+               <l>Pity but you shou'd e'en together goe;</l>
+               <l>
+                  <hi>A Priest no Angel;</hi> none from faults are free,</l>
+               <l>As long as clogg'd with frail Mortality:</l>
+               <l>Besides, if when but <hi>twelve</hi> our Saviour chose</l>
+               <l>There was one <hi>perjur'd Traytor</hi> mixt with those,</l>
+               <l>
+                  <hi>If one in Twelve</hi> did villany contrive</l>
+               <l>Is't strange we've <hi>one (or two) in twenty five?</hi>
+               </l>
+               <l>
+                  <hi>Are there no more?</hi>—be you the <hi>Oracle</hi>
+               </l>
+               <l>Your self, a <hi>Halter</hi> take if you <hi>can tell,</hi>
+               </l>
+               <l>If <hi>not,</hi> a <hi>VVhip</hi> will serve the turn as well.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>All this will never make the Party good,</hi>
+               </l>
+               <l>
+                  <hi>Since for the generality they're leud:</hi>
+               </l>
+               <l>Have you <hi>told Noses</hi> Sir, or wou'd you be</l>
+               <l>The Author of a <hi>second Century,</hi>
+                  <note n="(c)" place="margin">Of scandalous Ministers.</note>
+               </l>
+               <l>
+                  <hi>O Golden time!</hi> O blest <hi>Reforming</hi> Age!</l>
+               <l>The <hi>Pulpits</hi> Vice is <hi>preach'd</hi> at by the <hi>Stage.</hi>
+               </l>
+               <l>However none for <hi>foolish pity</hi> spare,</l>
+               <l>But from <hi>VVhite-Chappel</hi> look to <hi>VVestminster,</hi>
+               </l>
+               <l>How many <hi>like your self,</hi> d'ye light on there?</l>
+               <l>Nay further, search the Universal round,</l>
+               <l>And still rail on when you have better found:</l>
+               <l>
+                  <hi>Troth there you're right, I think they're all alike,</hi>
+               </l>
+               <l>Now the <hi>Mask's off</hi> and at the <hi>root</hi> you strike.</l>
+               <l>
+                  <hi>VVell, Int'rest is their God what e'er they say,</hi>
+               </l>
+               <l>Pray which <hi>sells best,</hi> a <hi>Sermon</hi> or a <hi>Play?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>"If <hi>Interest</hi> 'tis to live contemn'd and poor,</l>
+               <l>"The <hi>hungry VVolf</hi> still <hi>barking</hi> at the <hi>door;</hi>
+               </l>
+               <pb n="19" facs="tcp:60550:13"/>
+               <l>"If <hi>Interest</hi> 'tis like <hi>Tantalus</hi> to stay</l>
+               <l>"Still <hi>gaping,</hi> envying ev'n a <hi>Carter</hi>'s <hi>pay</hi>
+               </l>
+               <l>"Who earns at least his <hi>hard Half-Crown a day:</hi>
+               </l>
+               <l>"If <hi>Int'rest</hi> 'tis to <hi>starve</hi> till <hi>Forty</hi>'s nigh</l>
+               <l>"Then get perhaps some <hi>Country hole and die,</hi>
+               </l>
+               <l>"Then I'le not contradict you in the least,</l>
+               <l>"'Tis <hi>Int'rest makes,</hi> 'tis <hi>Int'rest sways</hi> the <hi>Priest:</hi>
+               </l>
+               <l>"These are his <hi>Gains</hi> and this his <hi>portion</hi> is</l>
+               <l>"A <hi>weary Life</hi> in hopes of <hi>future bliss.</hi>
+               </l>
+               <l>"Ah! that's the thing alone that <hi>sweetens</hi> this.</l>
+            </lg>
+            <lg>
+               <l>You cry, I've <hi>preach'd enough</hi> and bid me mind</l>
+               <l>To answer the <hi>Objections</hi> yet behind:</l>
+               <l>Let's hear 'em then! <hi>What need of all this stir?</hi>
+               </l>
+               <l>
+                  <hi>Mayn't we</hi>
+               </l>
+               <l>
+                  <hi>Be sav'd without a Priest?</hi> Yes, doubtless Sir!</l>
+               <l>
+                  <hi>You</hi> cannot <hi>miss</hi> the <hi>Road;</hi> but there are few</l>
+               <l>(Consider that) of <hi>equal sense</hi> with you;</l>
+               <l>Men of <hi>Morality</hi> and <hi>Principles;</hi>
+                  <note n="(a)" place="margin">Vid. the Mora<g ref="char:EOLhyphen"/>list.</note>
+               </l>
+               <l>Besides a <hi>hundred pretty Fancies</hi> else;</l>
+               <l>And for the <hi>Rabble of the world</hi> ye know</l>
+               <l>We safely may allow a <hi>Priest</hi> or two.</l>
+               <l>For as a <hi>learned Knight</hi>
+                  <note n="(b)" place="margin">Sir Jo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </note> did the last Age</l>
+               <l>With <hi>Christianity</hi> it self engage;</l>
+               <l>An<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> taught if any thing besides pretence,</l>
+               <l>'Twas only fit for <hi>men of vulgar sense,</hi>
+               </l>
+               <l>While such as he say <hi>Priests</hi> what e're they can</l>
+               <l>Were sav'd by ways <hi>more like a Gentleman;</hi>
+               </l>
+               <l>So our <hi>sage Author</hi> wisely does esteem</l>
+               <l>The <hi>Cassock Doctors</hi> useless unto him.</l>
+               <pb n="20" facs="tcp:60550:14"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="21" facs="tcp:60550:14"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="20" facs="tcp:60550:15"/>
+               <l>
+                  <hi>Himself he'l preach and pray</hi> the charge to save,</l>
+               <l>Nay the poor <hi>Sexton rob,</hi> and dig his Grave,</l>
+               <l>Parson and Clark, Good wives and Bearers cheat,</l>
+               <l>And bury himself alive like <hi>Charles the Great.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>But how should they on men of sense prevail</hi>
+               </l>
+               <l>
+                  <hi>Who change each Hour, and</hi> what may change may fail.</l>
+               <l>
+                  <hi>The patient Finger-watches are content</hi>
+               </l>
+               <l>
+                  <hi>To be turn'd round by every Government.</hi>
+               </l>
+               <l>
+                  <hi>Those Church Camelions, fed on Glories Air</hi>
+               </l>
+               <l>
+                  <hi>Still take that Colour which at Court they wear.</hi>
+               </l>
+               <l>
+                  <hi>He who this hour for Loyalty declaims</hi>
+               </l>
+               <l>
+                  <hi>The very next forsakes his Idol-James.</hi>
+               </l>
+               <l>
+                  <hi>How do each honest mind abominate</hi>
+               </l>
+               <l>
+                  <hi>These shuffling Arts, these Tricks of Church and State,</hi>
+               </l>
+               <l>
+                  <hi>Just Rage once rouz'd in vengeance I'le persist,</hi>
+               </l>
+               <l>
+                  <hi>And make 'em feel an</hi> angry Satyrist<note n="(a)" place="margin">Vid. Postscript to Mora<g ref="char:EOLhyphen"/>li<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>Poor harmless thing! Thou <hi>canst not angry be:</hi>
+               </l>
+               <l>A <hi>bristling Louse</hi> has more of <hi>Soul</hi> than thee.</l>
+               <l>But to the point in <hi>Question</hi> quickly tell,</l>
+               <l>In changing did the <hi>Clergy ill</hi> or <hi>well?</hi>
+               </l>
+               <l>If <hi>Ill</hi> thou saidst they did, thy <hi>Vizard</hi>'s lost,</l>
+               <l>And thou maist find it at the <hi>Whipping Post:</hi>
+               </l>
+               <l>If <hi>well,</hi> thou richly dost deserve the same,</l>
+               <l>Who what thy self approvest, thy self do</l>
+            </lg>
+            <lg>
+               <l>Sir, <hi>neither Horn of your Dilemma's stron<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </l>
+               <l>
+                  <hi>For they shou'd still stand firm;</hi> what! right o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>
+                  <hi>But how shou'd we our Faith and duty know,</hi>
+               </l>
+               <l>
+                  <hi>When not the same that 'twas</hi> 3 <hi>years ago?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <note n="(b)" place="margin">Vid. s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pra.</note>You much alike did mind it, then and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <pb n="21" facs="tcp:60550:15"/>
+               <l>Pray which of the <hi>Commandments is struck out?</hi>
+               </l>
+               <l>Which <hi>Article o'th' Creed</hi> is call'd in doubt,</l>
+               <l>Unless by <hi>Hereticks,</hi> or such as you,</l>
+               <l>Who neither will aright <hi>believe or do.</hi>
+               </l>
+               <l>Wou'd you speak plain, as to <hi>confiding Friend,</hi>
+               </l>
+               <l>And had you rather had 'em <hi>break</hi> than <hi>bend?</hi>
+               </l>
+               <l>Since some for <hi>Faith</hi> have Courted <hi>Martyrdom,</hi>
+               </l>
+               <l>Shou'd others do it for the <hi>Devil</hi> and <hi>Rome?</hi>
+               </l>
+               <l>'Tis very <hi>kind</hi> and <hi>civil</hi> we must own,</l>
+               <l>But is not this a Contradiction?</l>
+               <l>What <hi>Quarter</hi> has he found who thus has done?</l>
+               <l>
+                  <hi>(Tho all he merits)</hi> did your Satyre bite</l>
+               <l>Less close, or with less Gall and vengeance write?</l>
+               <l>
+                  <hi>State-Butcher stil'd, and reverend Hypocrite</hi>
+                  <note n="(a)" place="margin">
+                     <hi>Mora<g ref="char:EOLhyphen"/>list,</hi> p. 14.</note>.</l>
+            </lg>
+            <lg>
+               <l>But 'tis in vain, all <hi>reas'ning</hi> is mis-spent</l>
+               <l>Where men <hi>resolve</hi> they <hi>ne're will be content;</hi>
+               </l>
+               <l>When like great <hi>Generals</hi> they <hi>prolong the War,</hi>
+               </l>
+               <l>Only to shew their <hi>skill</hi> and keep their <hi>pow'r.</hi>
+               </l>
+               <l>Had <hi>Priests stood out,</hi> the Nation they'd <hi>betray'd,</hi>
+               </l>
+               <l>And <hi>Sacrifices</hi> had been justly made.</l>
+               <l>
+                  <hi>Did they come in,</hi> this turns to their confusion.</l>
+               <l>
+                  <hi>'Tis Reservation</hi> all and meer <hi>Collusion.</hi>
+               </l>
+               <l>
+                  <hi>The Wor<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> no more will let 'em now deceive 'em.</l>
+               <l>They've chang'd their <hi>Faith &amp; King, &amp; who'l believe em?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>That men of sense,</hi> ne're fear't, will ever do</l>
+               <l>While what they teach is <hi>evident and true,</hi>
+               </l>
+               <l>While no <hi>implicite notions</hi> they impose,</l>
+               <l>Nor like <hi>Rome</hi>'s <hi>Priests</hi> wou'd lead us by the <hi>Nose,</hi>
+               </l>
+               <pb n="22" facs="tcp:60550:16"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="23" facs="tcp:60550:16"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="22" facs="tcp:60550:17"/>
+               <l>Whil'st <hi>Life and Pulpit</hi> both discourage sin,</l>
+               <l>Whil'st <hi>Reason</hi> they can talk, both <hi>out</hi> and <hi>in.</hi>
+               </l>
+               <l>Such are those <hi>Worthies</hi> now the <hi>Croziers</hi> bear</l>
+               <l>Who with such <hi>Grace</hi> adorn the <hi>Robes</hi> they wear.</l>
+               <l>If others with impunity <hi>abuse,</hi>
+               </l>
+               <l>Much more may we their <hi>Names</hi> with reverence use,</l>
+               <l>And <hi>without leave</hi> so fair a subject chuse.</l>
+               <l>For ne're cou'd <hi>malice</hi> find a worse pretence</l>
+               <l>Ne're stood it more in need of <hi>Impudence</hi>
+               </l>
+               <l>Than in the <hi>present Age,</hi> each <hi>Sacred See</hi>
+               </l>
+               <l>With so much <hi>Learning</hi> fill'd and <hi>Piety.</hi>
+               </l>
+               <l>To <hi>Flatter</hi> whom</l>
+               <l>I'd scorn as much as they to <hi>look on me.</hi>
+               </l>
+               <l>'Thas ever been the <hi>Greats</hi> unhappy Fate</l>
+               <l>To bear the under-worlds <hi>esteem or hate;</hi>
+               </l>
+               <l>Them <hi>Friends</hi> and <hi>Foes</hi> so eagerly assail</l>
+               <l>Which is the worst affront? <hi>To praise and rail.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>How e're, whom <hi>Virtue</hi> has to <hi>Glory</hi> rais'd,</l>
+               <l>
+                  <hi>Why are they good if they would not be prais'd?</hi>
+               </l>
+               <l>Why grievous Lo—n! didst thou still perform</l>
+               <l>Thy <hi>Duty</hi> in the last approaching <hi>Storm,</hi>
+               </l>
+               <l>When those who for the better ne're could <hi>change,</hi>
+               </l>
+               <l>Let loose on thee their <hi>festring Old reven<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e?</hi>
+               </l>
+               <l>Who but a <hi>C—n</hi> such a <hi>Shock</hi> cou'd b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>He <hi>stemm'd</hi> the first wild <hi>Tide, himsel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </l>
+               <l>Say <hi>Envy,</hi> say did <hi>C—n</hi> then disgrace</l>
+               <l>His former <hi>Trophies,</hi> or his <hi>noble Race<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </l>
+               <l>And when th' Oppressed Nations crie</l>
+               <l>A loud <hi>Alarm</hi> to <hi>Orange</hi> and to <hi>Heav<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </l>
+               <pb n="23" facs="tcp:60550:17"/>
+               <l>When <hi>Europes Saviour</hi> did with us <hi>begin,</hi>
+               </l>
+               <l>And brought a <hi>kind,</hi> a <hi>friendly Army</hi> in,</l>
+               <l>Who from fierce Wolves did snatch the Royal Prey,</l>
+               <l>More <hi>Fell and Bloody,</hi> now they must away,</l>
+               <l>Who did the precious <hi>Hostage</hi> thence convey?</l>
+               <l>From falling <hi>Troy,</hi> the blest <hi>Palladium</hi> bore,</l>
+               <l>Which by her <hi>Presence Sacred</hi> was before?</l>
+            </lg>
+            <lg>
+               <l>Shall Learned <hi>B</hi>—t ever be forgot:</l>
+               <l>No, first let <hi>Malice</hi> burst and <hi>Envy</hi> rot?</l>
+               <l>Verst in the Realms of <hi>dark Antiquity,</hi>
+               </l>
+               <l>
+                  <hi>Times Register</hi> knows hardly more than he</l>
+               <l>Who <hi>reads</hi> like him, that cou'd like him <hi>digest?</hi>
+               </l>
+               <l>He bears a <hi>living Bodley</hi> in his <hi>Breast.</hi>
+               </l>
+               <l>Which of the two shall we the most admire,</l>
+               <l>His <hi>Gold</hi> in <hi>Ingots</hi> or drawn out in <hi>Wire.</hi>
+               </l>
+               <l>What <hi>Matchless Beauties</hi> in each <hi>period</hi> shine,</l>
+               <l>How sweet a <hi>Harmony</hi> in every <hi>Line?</hi>
+               </l>
+               <l>What <hi>pleasing Motions</hi> all thy <hi>Writings</hi> raise?</l>
+               <l>How few, Great Man! like thee <hi>know how to praise?</hi>
+               </l>
+               <l>Our <hi>Alexander</hi> needs no <hi>Homer</hi> wish,</l>
+               <l>While matchless <hi>B</hi>—t his <hi>Historian</hi> is.</l>
+               <l>
+                  <hi>B—t,</hi> who shar'd so long the <hi>Heroes</hi> Fate,</l>
+               <l>Equa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> virtuous and unfortunate.</l>
+               <l>(Tho he so many <hi>Foils</hi> to <hi>Fortune</hi> gave,</l>
+               <l>She yields at last, and owns her self his <hi>Slave.</hi>)</l>
+               <l>To distant Realms a <hi>glorious Exile</hi> sent;</l>
+               <l>Thus <hi>Aristides</hi> bore his Banishment:</l>
+               <l>In Forreign Lands <hi>Carest,</hi> just honour shown</l>
+               <l>His <hi>Merits</hi> there, tho' slighted by his own.</l>
+               <pb n="24" facs="tcp:60550:18"/>
+               <l>How much in vain, what his mad Foes design'd?</l>
+               <l>As well the <hi>Sun</hi> they'd to one <hi>Climate bind.</hi>
+               </l>
+               <l>His <hi>Influence</hi> still as great, his Rays as clear,</l>
+               <l>Absent he <hi>enlighten'd</hi> both and <hi>warm'd</hi> us here.</l>
+               <l>His <hi>Pen</hi> did the first timely help afford,</l>
+               <l>And <hi>mark'd the way for his lov'd Hero</hi>'s Sword.</l>
+            </lg>
+            <lg>
+               <l>Say reverend <hi>A—ph!</hi> shall the Muse presume</l>
+               <l>With <hi>trembling steps</hi> to approach thy Sacred room!</l>
+               <l>With <hi>guilty Eyes</hi> and an <hi>ingenuous shame</hi>
+               </l>
+               <l>Lest rudely we <hi>agen</hi> profane thy <hi>Name.</hi>
+               </l>
+               <l>So fair thy <hi>Life</hi> by <hi>malice</hi> thou'rt forgot<note n="(a)" place="margin">Not mention<g ref="char:EOLhyphen"/>ed in the <hi>Tribe</hi> of <hi>Levi.</hi>
+                  </note>
+               </l>
+               <l>Nor <hi>Envy</hi>'s self can <hi>make</hi> or <hi>find</hi> a <hi>Blott</hi>
+               </l>
+               <l>
+                  <hi>Bright Confessor</hi> in the most glorious Cause,</l>
+               <l>Heav'ns own <hi>Religion,</hi> and thy Country's <hi>Laws?</hi>
+               </l>
+               <l>In all Divine and humane Learning read,</l>
+               <l>Acquainted well with all the <hi>mighty Dead.</hi>
+               </l>
+               <l>The <hi>Sun</hi> its self thou his <hi>mistakes</hi> couldst tell</l>
+               <l>And by thy art set right his <hi>Chronicle,</hi>
+               </l>
+               <l>Where wandring <hi>Time</hi> has in blind mazes trod,</l>
+               <l>Or did in its lost Guides <hi>Eclipses</hi> nod.</l>
+               <l>The <hi>Gordian Knots</hi> of tough <hi>Chronologie,</hi>
+               </l>
+               <l>Which often <hi>cut,</hi> seldom unty'd will be,</l>
+               <l>
+                  <hi>Familiar</hi> all and <hi>easie</hi> are to thee.</l>
+               <l>
+                  <hi>Truth</hi> which so often has her self deny'd,</l>
+               <l>Appears to thee <hi>disrob'd</hi> from State and Pride,</l>
+               <l>As thou thy self to all the world beside.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>"The Sun on Insects shines as much as Kings,</hi>
+               </l>
+               <l>
+                  <hi>"The deeper no that sad Reflexion stings.</hi>
+               </l>
+               <pb n="25" facs="tcp:60550:18"/>
+               <l>
+                  <hi>"What's past is Fate, we Fate in vain deplore,</hi>
+               </l>
+               <l>
+                  <hi>"Yet Muse! sigh on! sigh deeper—Ah no more!</hi>
+               </l>
+               <l>Great <hi>W—r</hi> born a heavy <hi>Scourge to Rome,</hi>
+               </l>
+               <l>Nor didst thou oftner fight, than overcome.</l>
+               <l>Not valiant Hannibal, so much her <hi>Fate,</hi>
+               </l>
+               <l>The Object of her <hi>Terror</hi> and her Hate!</l>
+               <l>Which first shall we admire, thy <hi>Massie</hi> Sence,</l>
+               <l>Thy <hi>Learnig deep,</hi> or flowing <hi>Eloquence?</hi>
+               </l>
+               <l>Thee unconern'd <hi>Posterity</hi> shall call</l>
+               <l>In all a <hi>Miracle,</hi> thy self in all.</l>
+            </lg>
+            <lg>
+               <l>Shall we go on, and all thoss <hi>Vertues</hi> show</l>
+               <l>From their bright <hi>Sees</hi> shine on the World below?</l>
+               <l>A while with the Ingenious <hi>P—ck</hi> stay,</l>
+               <l>
+                  <hi>Seraphs themselves from him might learn to Pray,</hi>
+               </l>
+               <l>With those who fill so well the sacred Seat,</l>
+               <l>With those who <hi>are,</hi> or those who <hi>might</hi> be <hi>Great.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>There's <hi>one</hi> who yet commands our <hi>chiefest care</hi>
+               </l>
+               <l>What <hi>Muse,</hi> tho' <hi>low</hi> as mine is, can forbear,</l>
+               <l>To raise her Voice that speaks of R—<hi>r.</hi>
+               </l>
+               <l>Thus look'd the God <hi>of Wit,</hi> and thus he sung,</l>
+               <l>When here, such Musick in his <hi>Face</hi> and <hi>Tongue:</hi>
+               </l>
+               <l>All smiling, even <hi>Beauteous,</hi> ever <hi>Young.</hi>
+               </l>
+               <l>Alike <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eir Brows adorn'd with deathless <hi>Bays.</hi>
+               </l>
+               <l>Their Heads with <hi>Golden</hi> or with <hi>Silver Rays.</hi>
+               </l>
+               <l>Judge all ye <hi>Woods,</hi> and judge ye <hi>Sacred Quire</hi>
+               </l>
+               <l>Which has the greater share of <hi>heavenly Fire?</hi>
+               </l>
+               <l>Which with more <hi>Art</hi> can touch the tuneful <hi>Lire?</hi>
+               </l>
+               <l>In him <hi>Religion</hi> like her self is <hi>drest,</hi>
+               </l>
+               <l>Ev'n grinning <hi>Envy</hi> here has oft confest,</l>
+               <pb n="26" facs="tcp:60550:19"/>
+               <l>She finds no fault, <hi>the Altar has the best.</hi>
+               </l>
+               <l>How blest those envy'd few, or lov'd by <hi>F<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>te,</hi>
+               </l>
+               <l>How more than Men <hi>divinely Fortunate,</hi>
+               </l>
+               <l>Who from the Worlds <hi>deceitful hurry</hi> free,</l>
+               <l>Enjoy at once the sight of <hi>Heaven</hi> and <hi>Thee?</hi>
+               </l>
+               <l>With thee, lov'd Man perpetual <hi>Hymns</hi> reherse</l>
+               <l>And praise the <hi>Maker</hi> of the <hi>Ʋniverse:</hi>
+               </l>
+               <l>While <hi>Harps</hi> resound, and pealing <hi>Organs</hi> Blow,</l>
+               <l>While <hi>Angels</hi> sing <hi>above</hi> and <hi>Saints below.</hi>
+               </l>
+               <l>Ah might I (but the Sawcy wish must die.</l>
+               <l>He <hi>melts his Wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gs</hi> who dares artempt so high),</l>
+               <l>Still hear, still feel the Heavenly Harmony,</l>
+               <l>Thither as constant as the day return,</l>
+               <l>Near thy <hi>Immortal Cowley</hi>'s <hi>sacred Ʋrn,</hi>
+               </l>
+               <l>How greedily I'd this dull World forego,</l>
+               <l>How gladly leave its <hi>Hopes,</hi> and <hi>Cares</hi> below,</l>
+               <l>All that's <hi>without the Quire</hi> with ease despise,</l>
+               <l>All its <hi>sad Truths</hi> and <hi>flatt'ring gilded lies?</hi>
+               </l>
+               <l>Mount on the beauteous <hi>Wings</hi> of Heavenly <hi>Love,</hi>
+               </l>
+               <l>And try if they had <hi>sweeter Songs</hi> above.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:60550:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
